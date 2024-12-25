@@ -1,2 +1,2 @@
 # weather_app
-my first project: a weather app
+my first project: a weather app :)
